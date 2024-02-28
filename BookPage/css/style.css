@@ -1,0 +1,77 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #2A383F;
+  width: 90rem;
+  margin: auto;
+}
+blockquote {
+  text-align: right;
+  font-size: 1.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-top: dotted 2px #685144;
+  border-bottom: dotted 2px #685144;
+}
+cite {
+  font-size: 1rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+.main {
+  font-size: 2rem;
+  width: 50rem;
+  margin: 9rem 1rem;
+}
+h1 {
+  text-align: center;
+  color: #EAEDF8;
+  font-size: 3rem;
+  background-color: #4A6C8E;
+  padding: 1rem;
+  margin: 0;
+}
+ol li {
+  text-align: center;
+  list-style-position: inside;
+}
+.markets {
+  text-align: center;
+  font-weight: bold;
+
+}
+em {
+  color: #685144;
+  font-weight: bold;
+}
+footer {
+  font-size: .75rem;
+  background-color: #4A6C8E;
+  color: #EAEDF8;
+  margin: 0;
+  padding: .5rem;
+}
+.citefooter {
+  font-size: .75rem;
+}
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #EAEDF8;  
+}
+a:visited {
+  color: #685144;
+}
+.floatright {
+  float: right;
+  margin: .5rem 1rem;
+  border-radius: 10%;
+}
+.bq1 {
+  float:right;
+  width: 50rem;
+  margin: 0rem 2rem 3rem 2rem;
+}
+.bq2 {
+  float:left;
+  width: 60rem;
+  margin: 1rem 2rem 0.15rem 2rem;
+}
